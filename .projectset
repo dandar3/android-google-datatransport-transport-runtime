@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-google-datatransport-transport-runtime/tags/1.0.0,google-datatransport-transport-runtime,60db299a0c21001a154ca08b9706b0fe;https://github.com/dandar3/android-google-datatransport-transport-runtime;https://github.com/dandar3/android-google-datatransport-transport-runtime;branches;tags;trunk;true;e1db51cb-0101-986f-9ebc-ce57b7db7bff;https://github.com/dandar3/android-google-datatransport-transport-runtime;;false;;;0"/>
+</provider>
+</psf>
